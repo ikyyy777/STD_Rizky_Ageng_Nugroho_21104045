@@ -1,0 +1,6 @@
+# Ignore Visual Studio folders
+01_Pengenalan_CPP_Bagian_1/pertemuan1/.vs/
+
+# Other ignores can be added below
+*.log
+*.tmp
